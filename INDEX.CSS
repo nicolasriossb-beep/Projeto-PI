@@ -1,0 +1,40 @@
+body {
+    background-color: lightskyblue;
+    color: black;
+}
+#logo {
+    width: 20%;
+}
+#textoin {
+    text-align: center;
+}
+#button1 {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 60px;
+    background-color: white;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* transition background-color 0.3s; */
+}
+#button2 {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 20px;
+    background-color: white;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* transition background-color 0.3s; */
+}
+#button3 {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 69px;
+    background-color: white;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* transition background-color 0.3s; */
+}
